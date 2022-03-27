@@ -3,7 +3,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC36M2ySx5os5sCrXjSdcosw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/ulancu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fulancu&screen_name=ulancu)
 
-## I'm a coder gamer,and a student.
+## I'm a Coder, Gamer, and a Student.
 
 - 🎓 I'm studing Electronics and Computer Science
 - 👀 I’m currently learning how to do code
