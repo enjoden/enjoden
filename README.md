@@ -8,7 +8,7 @@
 - 🎓 I'm studing Electronics and Computer Science
 - 👀 I’m currently learning how to do code
 - ⭐️ I'm streaming on Twitch and playing video games
-- 🥅 Goals for 2022: Learn c++, js, create a program
+- 🥅 Goals for 2022: learn c++, js, create a program
 - ⚡ Fun Fact: Yes
 
 ### Social Media
