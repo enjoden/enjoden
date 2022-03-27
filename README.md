@@ -34,3 +34,5 @@
 ## Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikodior&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[youtube]: https://www.youtube.com/channel/UC36M2ySx5os5sCrXjSdcosw
