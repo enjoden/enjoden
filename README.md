@@ -5,10 +5,11 @@
 
 ## I'm a coder gamer,and a student.
 
-- 👀 I’m currently [learning] how to do code
 - 🎓 I'm studing Electronics and Computer Science
+- 👀 I’m currently learning how to do code
 - ⭐️ I'm streaming on Twitch and playing video games
-- 🌑 Yes
+- 🥅 Goals for 2022: Learn c++, js, create a program
+- ⚡ Fun Fact: Yes
 
 ### Social Media
 
