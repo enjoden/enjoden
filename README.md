@@ -12,8 +12,6 @@
 - "Victory of the people"
 - nikodior/nikodemjn, not on other platforms.
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=nikodior&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitor Badge">
-
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
