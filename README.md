@@ -6,11 +6,11 @@
 
 
 ## About Me
-- 17\.
+- 18\.
 - self taught developer.
 - currently studying computer science and electronics in HS.
 - "Victory of the people"
-- nikodior#6767, not on other platforms.
+- nikodior/nikodemjn, not on other platforms.
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=nikodior&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitor Badge">
 
